@@ -1,0 +1,7 @@
+C:\cischarp\cmimsnoe_varenie\cmimsnoe_varenie\bin\Debug\cmimsnoe_varenie.exe.config
+C:\cischarp\cmimsnoe_varenie\cmimsnoe_varenie\bin\Debug\cmimsnoe_varenie.exe
+C:\cischarp\cmimsnoe_varenie\cmimsnoe_varenie\bin\Debug\cmimsnoe_varenie.pdb
+C:\cischarp\cmimsnoe_varenie\cmimsnoe_varenie\obj\Debug\cmimsnoe_varenie.csproj.AssemblyReference.cache
+C:\cischarp\cmimsnoe_varenie\cmimsnoe_varenie\obj\Debug\cmimsnoe_varenie.csproj.CoreCompileInputs.cache
+C:\cischarp\cmimsnoe_varenie\cmimsnoe_varenie\obj\Debug\cmimsnoe_varenie.exe
+C:\cischarp\cmimsnoe_varenie\cmimsnoe_varenie\obj\Debug\cmimsnoe_varenie.pdb
